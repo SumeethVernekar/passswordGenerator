@@ -1,1 +1,1 @@
-A react app to generator the password based on the length with the charactor, numbers
+A react app to generator the password based on the length with the character, numbers
